@@ -72,8 +72,18 @@
 
 <div align="center">
 <span>  
-	<sub>Este texto Markdown faz parte da tarefa <i> Contribuindo para um Projeto Open source </i> do curso <i><b> Santander Bootcamp 2023 - Ciência de Dados com Python<b></b></i>   da <a href="https://dio.me"><b>DIO</b></a> e foi construido com ❤︎ por mim.
+	 :bulb:<sub>Este texto Markdown faz parte da tarefa <i> Contribuindo para um Projeto Open source </i> do curso <i><b> Santander Bootcamp 2023 - Ciência de Dados com Python<b></b></i>   da <a href="https://dio.me"><b>DIO</b></a> e foi construido com ❤︎ 🧡 por mim.
   </sub>
+</span>
+		  <br>
+<span>		 
+ <div align="right">
+<p><sub><i><b>Contato:</b></i><a href="mailto:maa.vaz@gmail.com" class="pui-text-blue"><i class="fa fa-envelope-o"></i> Marco Vaz</a>
+
+</sub></p>
+                            
+</div>
+
 </span>
 <span>		
 <div align="right">
@@ -83,5 +93,6 @@
   </a>
 </div>
 	
-</div>	
 </div>
+
+
