@@ -17,8 +17,8 @@
 </div>
 <div align="center">
   <h3>
-    <a href="https://github.com/marktext/marktext">
-      Website
+    <a href="#linguagens-de-programação">
+     Linguagens de Programação
     </a>
     <span> | </span>
     <a href="https://github.com/marktext/marktext#features">
@@ -69,6 +69,18 @@
     <span>:kr:</span>
   </a>
 </div>
+<div>
+
+<div align="left">
+<span><h3>Linguagens de Programação:</h3></span>  
+	
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
+
+</div>
+
 
 <div align="center">
 <span>  
@@ -95,4 +107,4 @@
 	
 </div>
 
-
+https://shields.io/badges/static-badge
