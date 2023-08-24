@@ -1,4 +1,5 @@
-# *Marco Vaz*
+<div align="center">
+ 	<h1><b>Marco Vaz </b></h1> 
 <div align="center">
   <h2>
 	<a>
