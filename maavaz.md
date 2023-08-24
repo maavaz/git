@@ -1,11 +1,19 @@
 <div align="center">
- 	<h1><b>Marco Vaz </b></h1> 
+ 	<h1><b><i>Marco Vaz</i> </b></h1> 
 <div align="center">
   <h2>
 	<a>
- 	 Gerente de Projetos de Tecnologia <span>|</span> Programador por paixão
+ 	 <i>Gerente de Projetos de Tecnologia <span>|</span> Programador por paixão</i>
 	<a>
 </h2>
+<br>
+
+<div align="center">
+  <!-- License -->
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/marktext/marktext.svg" alt="LICENSE">
+  </a>
+</div>	
 </div>
 <div align="center">
   <h3>
@@ -60,4 +68,20 @@
   <a href="docs/i18n/ko.md#readme">
     <span>:kr:</span>
   </a>
+</div>
+
+<div align="center">
+<span>  
+	<sub>Este texto Markdown faz parte da tarefa <i> Contribuindo para um Projeto Open source </i> do curso <i><b> Santander Bootcamp 2023 - Ciência de Dados com Python<b></b></i>   da <a href="https://dio.me"><b>DIO</b></a> e foi construido com ❤︎ por mim.
+  </sub>
+</span>
+<span>		
+<div align="right">
+  <!-- License -->
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/marktext/marktext.svg" alt="LICENSE">
+  </a>
+</div>
+	
+</div>	
 </div>
