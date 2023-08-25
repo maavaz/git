@@ -81,6 +81,17 @@
 
 </div>
 
+### My Stats
+
+<div>
+  <a href="https://github.com/
+DanielCauldron">
+<div style="display: flex;">
+ <img src="https://github-readme-stats.vercel.app/api?username=maavaz&show_icons=true&theme=transparent" style="height: 200px; width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maavaz&layout=compact&theme=transparent" style="height: 200px; width: 40%;" />
+</div>
+ </a>
+</div>
 
 <div align="center">
 <span>  
