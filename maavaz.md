@@ -10,9 +10,6 @@
 <br>
 </div>
 
-## [Heading Link](section-i-want)
-
-
 <div align="center">
   <h3>
     <a href="#linguagens-de-programação">
@@ -115,8 +112,6 @@
 </div>
 	
 </div>
-## [Section I Want] 
-<br>
+
 https://shields.io/badges/static-badge
 
-[Go to end of demo](#heading--end-of-demo)
