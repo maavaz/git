@@ -1,5 +1,6 @@
 <div align="center">
  	<h1><b><i>Marco Vaz</i> </b></h1> 
+</div>	
 <div align="center">
   <h2>
 	<a>
@@ -7,21 +8,18 @@
 	<a>
 </h2>
 <br>
-
-<div align="center">
-  <!-- License -->
-  <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/marktext/marktext.svg" alt="LICENSE">
-  </a>
-</div>	
 </div>
+
+## [Heading Link](section-i-want)
+
+
 <div align="center">
   <h3>
     <a href="#linguagens-de-programação">
      Linguagens de Programação
     </a>
-    <span> | </span>
-    <a href="https://github.com/marktext/marktext#features">
+   <span> | </span>
+    <a href="#Status">
       Status
     </a>
     <span> | </span>
@@ -69,7 +67,7 @@
     <span>:kr:</span>
   </a>
 </div>
-<div>
+
 
 <div align="left">
 <span><h3>Linguagens de Programação:</h3></span>  
@@ -117,5 +115,5 @@
 </div>
 	
 </div>
-
+## [Section I Want] 
 https://shields.io/badges/static-badge
