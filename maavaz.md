@@ -1,6 +1,5 @@
-<div align="center">
- 	<h1><b><i>Marco Vaz</i> </b></h1> 
-</div>	
+![marco](https://github.com/maavaz/git/blob/main/marcovaz.png)
+
 <div align="center">
   <h2>
 	<a>
@@ -20,8 +19,8 @@
       Status
     </a>
     <span> | </span>
-    <a href="https://github.com/marktext/marktext#download-and-installation">
-      Downloads
+    <a href="#Softwares">
+      Softwares
     </a>
     <span> | </span>
     <a href="https://github.com/marktext/marktext#development">
@@ -69,13 +68,25 @@
 <div align="left">
 <span><h3>Linguagens de Programação:</h3></span>  
 	
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Static Badge](https://img.shields.io/badge/PYTHON-black?style=flat&logo=python&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
 
 </div>
 
+<div align="left">
+<span><h3>Softwares:</h3></span>  
+	
+![Static Badge](https://img.shields.io/badge/JIRA-blue?style=flat&logo=jira&logoColor=white)&nbsp; 
+![Static Badge](https://img.shields.io/badge/PROJECT-darkgreen?style=flat&logo=microsoft&logoColor=white)&nbsp;
+![Static Badge](https://img.shields.io/badge/EXCEL-darkblue?style=flat&logo=microsoftexcel&logoColor=yellow)&nbsp;
+![Static Badge](https://img.shields.io/badge/SQLSERVER-darkblue?style=flat&logo=microsoftsqlserver&logoColor=white)&nbsp;
+![Static Badge](https://img.shields.io/badge/VSCODE-black?style=flat&logo=visualstudiocode&logoColor=white)&nbsp;
+![Static Badge](https://img.shields.io/badge/ANACONDA-brown?style=flat&logo=anaconda&logoColor=white)&nbsp;
+
+
+</div>
 
 
 <div align="left">
