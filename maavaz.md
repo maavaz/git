@@ -23,7 +23,7 @@
       Softwares
     </a>
     <span> | </span>
-    <a href="#Um pouco sobre mim">
+    <a href="#Sobre mim">
       Mais um pouco...
     </a>
   
@@ -64,7 +64,7 @@
 </div>
 <br><hr>
 <div align="left">
-<span><h3>Um pouco sobre mim:</h3></span>  
+<span><h3>Sobre mim:</h3></span>  
 	
 <h5><p>Trabalhei muitos anos em gestão de projetos, inicialmente usando metodologias tradicionais e, posteriormente, usando metodologias ágeis, como <i><b>SCRUM</b></i> e <i><b>Kanban.</b></i></p> 
 	<p>A programação :computer: sempre esteve presente na minha vida, onde realmente iniciei minha carreira na área de TI. Hoje em dia, programo por paixão, sempre estudando e, quem sabe, ainda tenho alguma oportunidade naquilo que mais gosto. </p> 
