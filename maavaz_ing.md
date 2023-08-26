@@ -76,11 +76,10 @@
 </span>
 <br>
 <span>
-  <div align="right">
-<p><sub><i><b>Contact:</b></i><a href="mailto:maa.vaz@gmail.com" class="pui-text-blue"><i class ="fa fa-envelope-o"></i> Marco Vaz</a>
-
-</sub></p>
-                            
+<div align="right">
+<p><p><sub>🕸️ Find me by email:</sub><br>
+<sub>   
+:email: email: <a href="mailto:maa.vaz@gmail.com" class="pui-text-blue"><i clase ="fa fa-sobre-o"></i> Marco Vaz</a></sub><br>                         
 </div>
 
 </span>
