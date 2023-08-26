@@ -23,12 +23,8 @@
        Software
      </a>
      <span> | </span>
-     <a href="https://github.com/marktext/marktext#development">
-       Desarrollo
-     </a>
-     <span> | </span>
-     <a href="https://github.com/marktext/marktext#contribution">
-       Contribución
+     <a href=#Conoceme>
+       Conoceme más
      </a>
    </h3>
 </div>
@@ -59,7 +55,11 @@
 
 </div>
 <br><hr>
-
+<div align="left">
+<span><h3>Conoceme:</h3></span>
+Conoceme más....
+ </div>
+<br><hr>
 <div align="left">
 <span><h3>Status:</h3></span>
    <a href="https://github.com/maavaz">
