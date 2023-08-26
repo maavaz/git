@@ -41,6 +41,8 @@
 ![Static Badge](https://img.shields.io/badge/PYTHON-black?style=flat&logo=python&logoColor=white)&nbsp;
 ![Static Badge](https://img.shields.io/badge/GOLANG-black?style=flat&logo=goland&logoColor=white)&nbsp;
 ![Static Badge](https://img.shields.io/badge/LINGUAGEM%20C-black?style=flat&logo=c&logoColor=white)&nbsp;
+![Static Badge](https://img.shields.io/badge/LINGUAGEM%20C%2B%2B-black?style=flat&logo=cplusplus&logoColor=white)&nbsp;
+
 
 </div>
 
