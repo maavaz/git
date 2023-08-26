@@ -23,7 +23,7 @@
       Softwares
     </a>
     <span> | </span>
-    <a href="https://github.com/marktext/marktext#Um pouco sobre mim">
+    <a href="#Um pouco sobre mim">
       Mais um pouco...
     </a>
   
