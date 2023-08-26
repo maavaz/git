@@ -35,8 +35,8 @@
 
 <div align="center">
   <sub>Translations:</sub>
-  <a href="docs/i18n/zh_cn.md#readme">
-    <span>:cn:</span>
+  <a href="https://github.com/maavaz/git/blob/main/maavaz_ing.md">
+    <span>en</span>
   </a>
   <a href="docs/i18n/zh_tw.md#readme">
     <span>:taiwan:</span>
