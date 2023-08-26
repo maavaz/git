@@ -66,9 +66,9 @@
 <div align="left">
 <span><h3>Um pouco sobre mim:</h3></span>  
 	
-<h4><p>Trabalhei muitos anos em gestão de projetos, inicialmente usando metodologias tradicionais e, posteriormente, usando metodologias ágeis, como <b>SCRUM</b> e <b>Kanbam</b></p>. 
+<h5><p>Trabalhei muitos anos em gestão de projetos, inicialmente usando metodologias tradicionais e, posteriormente, usando metodologias ágeis, como <i><b>SCRUM</b></i> e <i><b>Kanban.</b></i></p> 
 	<p>A programação :computer: sempre esteve presente na minha vida, onde realmente iniciei minha carreira na área de TI. Hoje em dia, programo por paixão, sempre estudando e, quem sabe, ainda tenho alguma oportunidade naquilo que mais gosto. </p> 
-	<p>Por fim, sou apaixonado 💚💚💚 por <b>futebol ⚽ </b>e, claro, pelo meu FLUZÃO. </p></h4>
+	<p>Por fim, sou apaixonado 💚💚💚 por <b>futebol ⚽ </b>e, claro, pelo meu FLUZÃO. <img src="https://github.com/maavaz/git/blob/main/Fluminense.48.png" style="height: 18px; width: 2%;" /> </p></h5>
  </div>
 
 <br><hr>
