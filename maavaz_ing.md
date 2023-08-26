@@ -23,7 +23,7 @@
        Software
      </a>
      <span> | </span>
-     <a href="About">
+     <a href="#About-ME">
        About
      </a>
 
@@ -58,7 +58,7 @@
 </div>
 <br><hr>
 <div align="left">
-<span><h3>About:</h3></span>
+<span><h3>About Me:</h3></span>
 
 <p>About</p>
 
