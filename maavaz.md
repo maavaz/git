@@ -23,13 +23,10 @@
       Softwares
     </a>
     <span> | </span>
-    <a href="https://github.com/marktext/marktext#development">
-      Development
+    <a href="https://github.com/marktext/marktext#Um pouco sobre mim">
+      Mais um pouco...
     </a>
-    <span> | </span>
-    <a href="https://github.com/marktext/marktext#contribution">
-      Contribution
-    </a>
+  
   </h3>
 </div>
 
@@ -65,6 +62,15 @@
 
 
 </div>
+<br><hr>
+<div align="left">
+<span><h3>Um pouco sobre mim:</h3></span>  
+	
+<h4><p>Trabalhei muitos anos em gestão de projetos, inicialmente usando metodologias tradicionais e, posteriormente, usando metodologias ágeis, como <b>SCRUM</b> e <b>Kanbam</b></p>. 
+	<p>A programação :computer: sempre esteve presente na minha vida, onde realmente iniciei minha carreira na área de TI. Hoje em dia, programo por paixão, sempre estudando e, quem sabe, ainda tenho alguma oportunidade naquilo que mais gosto. </p> 
+	<p>Por fim, sou apaixonado 💚💚💚 por <b>futebol ⚽ </b>e, claro, pelo meu FLUZÃO. </p></h4>
+ </div>
+
 <br><hr>
 
 <div align="left">
