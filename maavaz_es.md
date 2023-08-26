@@ -57,9 +57,9 @@
 <br><hr>
 <div align="left">
 <span><h3>Conoceme:</h3></span>
-<h5><p>I have been working for many years in project management, initially using traditional methodologies and later using agile methodologies such as <i><b>SCRUM</b></i> and <i><b>Kanban .</b></i></p>
-<p> Programming :computer: has always been present in my life, where I really started my career in IT. Nowadays, I program for passion, always studying and, who knows, I still have an opportunity in what I like the most. </p>
-<p>Finally, I'm in love 💚💚💚 with <b>soccer ⚽ </b>and, of course, with my FLUZÃO. <img src="https://github.com/maavaz/git/blob/main/Fluminense.48.png" style="height: 18px; width: 2%;" /> </p></h5>
+<h5><p>Trabajé durante muchos años en la gestión de proyectos, inicialmente utilizando metodologías tradicionales y posteriormente utilizando metodologías ágiles como <i><b>SCRUM</b></i> y <i><b>Kanban.</b></i></p> 
+	<p>La programación 💻 siempre ha estado presente en mi vida, donde realmente comencé mi carrera en TI. Hoy en día programo por pasión, siempre estudiando y quién sabe, todavía tengo oportunidad en lo que más me gusta. </p> 
+	<p>Finalmente, estoy enamorado 💚💚💚 del <b>fútbol ⚽ </b>y, por supuesto, de mi FLUZÃO. <img src="https://github.com/maavaz/git/blob/main/Fluminense.48.png" style="height: 18px; width: 2%;" /> </p></h5>
  </div>
 <br><hr>
 <div align="left">
