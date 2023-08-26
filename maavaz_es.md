@@ -14,19 +14,19 @@
      <a href="#lenguajes-de-programación">
       Lenguajes de programación
      </a>
-    <lapso> | </span>
+    <span> | </span>
      <a href="#Status">
        Status
      </a>
-     <lapso> | </span>
+     <span> | </span>
      <a href="#Software">
        Software
      </a>
-     <lapso> | </span>
+     <span> | </span>
      <a href="https://github.com/marktext/marktext#development">
        Desarrollo
      </a>
-     <lapso> | </span>
+     <span> | </span>
      <a href="https://github.com/marktext/marktext#contribution">
        Contribución
      </a>
@@ -71,7 +71,7 @@
 </div>
 <br><hr>
 <div align="center">
-<lapso>
+<span>
 :bulb:<sub>Este texto de Markdown es parte de la tarea <i> Contribuyendo a un proyecto de código abierto </i> del curso <i><b> Santander Bootcamp 2023 - Ciencia de datos con Python<b></b > </i> de <a href="https://dio.me"><b>DIO</b></a> y creado con ❤︎ 🧡 por mí.
    </sub>
 </span>
@@ -84,7 +84,7 @@
 </div>
 
 </span>
-<lapso>
+<span>
 <div align="right">
    <!-- Licencia -->
    <a href="LICENCIA">
