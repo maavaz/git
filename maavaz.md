@@ -64,17 +64,18 @@
   </a>
 </div>
 
+<br><hr>
 
 <div align="left">
 <span><h3>Linguagens de Programação:</h3></span>  
-	
+
 ![Static Badge](https://img.shields.io/badge/PYTHON-black?style=flat&logo=python&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
+![Static Badge](https://img.shields.io/badge/GOLANG-black?style=flat&logo=goland&logoColor=white)&nbsp; 
+![Static Badge](https://img.shields.io/badge/LINGUAGEM%20C-black?style=flat&logo=c&logoColor=white)&nbsp;
 
 </div>
 
+<br><hr>
 <div align="left">
 <span><h3>Softwares:</h3></span>  
 	
@@ -87,7 +88,7 @@
 
 
 </div>
-
+<br><hr>
 
 <div align="left">
 	<span><h3>Status:</h3></span> 
@@ -98,7 +99,7 @@
 </div>
  </a>
 </div>
-
+<br><hr>
 <div align="center">
 <span>  
 	 :bulb:<sub>Este texto Markdown faz parte da tarefa <i> Contribuindo para um Projeto Open source </i> do curso <i><b> Santander Bootcamp 2023 - Ciência de Dados com Python<b></b></i>   da <a href="https://dio.me"><b>DIO</b></a> e foi construido com ❤︎ 🧡 por mim.
@@ -124,5 +125,4 @@
 	
 </div>
 
-https://shields.io/badges/static-badge
 
