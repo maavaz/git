@@ -23,13 +23,10 @@
        Software
      </a>
      <span> | </span>
-     <a href="https://github.com/marktext/marktext#development">
-       Development
+     <a href="About-Me">
+       About
      </a>
-     <span> | </span>
-     <a href="https://github.com/marktext/marktext#contribution">
-       Contribution
-     </a>
+
    </h3>
 </div>
 
@@ -57,6 +54,13 @@
 ![Static Badge](https://img.shields.io/badge/VSCODE-black?style=flat&logo=visualstudiocode&logoColor=white)&nbsp;
 ![Static Badge](https://img.shields.io/badge/ANACONDA-brown?style=flat&logo=anaconda&logoColor=white)&nbsp;
 
+
+</div>
+<br><hr>
+<div align="left">
+<span><h3>About Me:</h3></span>
+
+<p>About</p>
 
 </div>
 <br><hr>
