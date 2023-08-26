@@ -33,37 +33,6 @@
    </h3>
 </div>
 
-<div align="center">
-   <sub>Translations:</sub>
-   <a href="docs/i18n/zh_cn.md#readme">
-     <span>:cn:</span>
-   </a>
-   <a href="docs/i18n/zh_tw.md#readme">
-     <span>:taiwan:</span>
-   </a>
-   <a href="docs/i18n/pl.md#readme">
-     <span>:poland:</span>
-   </a>
-   <a href="docs/i18n/ja.md#readme">
-     <span>:jp:</span>
-   </a>
-   <a href="docs/i18n/french.md#readme">
-     <span>:fr:</span>
-   </a>
-   <a href="docs/i18n/tr.md#readme">
-     <span>:tr:</span>
-   </a>
-   <a href="docs/i18n/spanish.md#readme">
-     <span>:es:</span>
-   </a>
-   <a href="docs/i18n/en.md#readme">
-     <span>:portugal:</span>
-   </a>
-   <a href="docs/i18n/ko.md#readme">
-     <span>:kr:</span>
-   </a>
-</div>
-
 <br><hr>
 
 <div align="left">
