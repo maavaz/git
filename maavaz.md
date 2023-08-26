@@ -23,7 +23,7 @@
       Softwares
     </a>
     <span> | </span>
-    <a href="#Sobre mim">
+    <a href="#Sobre-mim">
       Mais um pouco...
     </a>
   
