@@ -125,4 +125,4 @@
 	
 </div>
 
-
+[![eua](https://github.com/maavaz/git/blob/main/icons8-eua-48.png)](https://github.com/maavaz/git/blob/main/maavaz_ing.md)
